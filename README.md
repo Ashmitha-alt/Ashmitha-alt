@@ -1,12 +1,12 @@
 ### Hi, I'm Ashmitha 👋
 
-**AI Engineer in training** — I build systems end-to-end, from an LSTM autoencoder catching anomalies in industrial sensor data under real-world distribution shift, to an LLM-powered planning app shipped with FastAPI and React.
+**AI Engineer · Software Engineer · QA/Test Engineer** — I build systems end-to-end, from an LSTM autoencoder catching anomalies in industrial sensor data under real-world distribution shift, to an LLM-powered planning app shipped with FastAPI and React.
 
 13 months of production QA experience (manual, regression, API, performance testing) gives me an edge most junior AI engineers don't have: I don't just build AI features — I know how to break them, test them, and get them release-ready.
 
 🎓 M.Sc. Computer Science @ RPTU Kaiserslautern-Landau (AI/ML focus) · B.Sc. CS, Vel Tech University<br>
 📍 Kaiserslautern, Germany<br>
-🟢 Open to **AI Engineering Werkstudent** roles (up to 20h/week) — valid German residence permit, no visa sponsorship required
+🟢 Open to **AI Engineering, Software Engineering, and QA/Test Engineer Werkstudent** roles (up to 20h/week) — valid German residence permit, no visa sponsorship required
 
 ---
 
