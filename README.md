@@ -31,8 +31,7 @@ LSTM autoencoder for unsupervised anomaly detection on multivariate sensor data 
 End-to-end planning app (FastAPI + React) that parses free-text goals into structured, schedulable JSON plans using local Llama 3 model via Ollama.
 
 **[AI-Assisted Test Management System](https://github.com/Ashmitha-alt/AI-Test-Case-Framework)**
-Java/REST backend with a rule-based AI engine that ranks and prioritizes test cases by risk/impact, replacing manual triage.
-
+Java/REST backend with Full-stack test management app (React frontend, Java REST backend) where a local LLM (Llama 3 via Ollama) generates test cases and a keyword-based rule engine suggests each case’s title, priority and type.
 ---
 
 #### 💼 Experience
