@@ -32,7 +32,6 @@ End-to-end planning app (FastAPI + React) that parses free-text goals into struc
 
 **[AI-Assisted Test Management System](https://github.com/Ashmitha-alt/AI-Test-Case-Framework)**
 Java/REST backend with Full-stack test management app (React frontend, Java REST backend) where a local LLM (Llama 3 via Ollama) generates test cases and a keyword-based rule engine suggests each case’s title, priority and type.
----
 
 #### 💼 Experience
 
