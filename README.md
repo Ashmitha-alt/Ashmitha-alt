@@ -13,7 +13,7 @@
 #### 🛠️ Skills
 
 **Applied AI/ML:** LSTM Autoencoders · Anomaly Detection · Feature Engineering · PCA · Adaptive (POT) Thresholding · TensorFlow · Scikit-learn
-**LLM & GenAI:** Prompt Engineering · FLAN-T5 · LLM Application Design · NL-to-Structured-Output Pipelines
+**LLM & GenAI:** Prompt Engineering · local Llama 3 model via Ollama · LLM Application Design · NL-to-Structured-Output Pipelines
 **Engineering:** Python · Java · SQL · JavaScript · FastAPI · React · REST API Design · Git/GitHub
 **Quality & Evaluation:** Test Design · API Testing (Postman) · Performance Testing (JMeter) · Jira · Agile/Scrum
 
@@ -28,7 +28,7 @@ Full-stack ML app predicting Remaining Useful Life and anomaly health scores for
 LSTM autoencoder for unsupervised anomaly detection on multivariate sensor data — 0.70 precision / 0.78 recall. Adaptive POT-based thresholding cut false positives by 40% vs. a static threshold.
 
 **[AI Daily Planner](https://github.com/Ashmitha-alt/ai-daily-planner)**
-End-to-end planning app (FastAPI + React) that parses free-text goals into structured, schedulable JSON plans using FLAN-T5.
+End-to-end planning app (FastAPI + React) that parses free-text goals into structured, schedulable JSON plans using local Llama 3 model via Ollama.
 
 **[AI-Assisted Test Management System](https://github.com/Ashmitha-alt/AI-Test-Case-Framework)**
 Java/REST backend with a rule-based AI engine that ranks and prioritizes test cases by risk/impact, replacing manual triage.
